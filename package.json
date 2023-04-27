@@ -1,0 +1,24 @@
+{
+  "name": "idgobpe_sdk",
+  "version": "1.0.0",
+  "description": "SDK for connect with ID Gob.pe",
+  "repository": "git@github.com:idgobpe-sdk/idgobpe_sdk_js.git",
+  "scripts": {
+    "compile": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pcm",
+    "idgobpe"
+  ],
+  "type": "commonjs",
+  "license": "ISC",
+  "author": "PCM",
+  "homepage": "https://id.gob.pe",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-replace": "^1.1.3",
+    "gulp-uglify": "^3.0.2"
+  }
+}

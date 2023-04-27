@@ -1,0 +1,6 @@
+/node_modules
+/.idea
+*.rdb
+*.log*
+package-lock.json
+notes.txt
